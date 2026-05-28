@@ -13,15 +13,7 @@ This folder contains authorship, citation, license, and boundary records for the
 
 The provenance folder preserves the authorship line, citation format, license boundary, and canon boundary for this test.
 
-This folder does not contain raw runs.
-
-This folder does not contain scored results.
-
-This folder does not contain process notes.
-
-This folder does not contain correction notes.
-
-This folder does not contain governance drafts.
+This folder supports source clarity, attribution, and boundary preservation.
 
 ## Authorship
 
